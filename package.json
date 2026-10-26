@@ -1,0 +1,8 @@
+{
+  "name": "ignore-comments-test",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "lodahs": "0.0.1-security"
+  }
+}
